@@ -22,9 +22,3 @@
 
 project-name/
 └── README.md
-
-**README.md should include:**
-- Project title
-- Brief description
-- Team members
-- API being used
