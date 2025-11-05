@@ -1,4 +1,4 @@
-- Project title
-- Brief description
-- Team members
-- API being used
+- Wet underpants
+- App will calculate precipitation on a route from one city to a different city.
+- Team members: Andris Vilks, Māris Punenovs, Dāvis Reinis
+- We use https://api.met.no/ API
