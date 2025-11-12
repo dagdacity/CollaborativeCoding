@@ -9,14 +9,14 @@
 App will calculate precipitation on a route from one city to a different city. This app will be useful for motorcycle riders.
 
 ## Problem Statement
-[What problem are you solving? Who is this for?]
+This app is mostly for motorcycle riders who want to know how much precipitation will be on a planed trip.
 
 ## API Selection
-**API Name:** [e.g., TMDB API]  
-**API Documentation:** [URL]  
-**Why this API?** [1-2 sentences]
+**API Name:** [MET Norway]  
+**API Documentation:** [https://docs.api.met.no/doc/]  
+**Why this API?** [This API provides reliable data]
 
-### 2. GitHub Repository
+### 2. GitHub Repository - https://github.com/dagdacity/CollaborativeCoding/
 
 **Required structure for now:**
 
